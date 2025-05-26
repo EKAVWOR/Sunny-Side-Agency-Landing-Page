@@ -1,0 +1,18 @@
+.fraunces-400 {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
+}
+.fraunces-500 {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
+}
